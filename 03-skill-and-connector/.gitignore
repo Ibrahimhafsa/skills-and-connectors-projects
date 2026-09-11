@@ -1,0 +1,35 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js (if using npm)
+node_modules/
+package-lock.json
+
+# Python (if using Python)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables (NEVER commit these)
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+*.log
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Project-specific
+# (Leave empty - this project contains documentation only)
