@@ -1,0 +1,22 @@
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if needed in future)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE
+.vscode/
+.idea/
+
+# Build outputs (if needed in future)
+dist/
+build/
