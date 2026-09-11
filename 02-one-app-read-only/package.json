@@ -1,0 +1,19 @@
+{
+  "name": "one-app-read-only",
+  "version": "1.0.0",
+  "description": "A beginner-friendly read-only app that demonstrates Google Drive as a connected data source",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test-drive-access.js"
+  },
+  "keywords": [
+    "google-drive",
+    "read-only",
+    "connector",
+    "data-source"
+  ],
+  "author": "Ibrahim Hafsa",
+  "license": "MIT"
+}
