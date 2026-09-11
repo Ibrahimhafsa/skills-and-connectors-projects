@@ -1,0 +1,12 @@
+# Local development files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+node_modules/
